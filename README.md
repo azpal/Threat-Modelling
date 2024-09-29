@@ -37,24 +37,3 @@ mindmap
       Attack 2
       Attack 3
       Attack 4
-
-React
-
-Reply
-
-
-
-
-
-
-
-
-
-
-
-
-Message general
-
-
-
-
