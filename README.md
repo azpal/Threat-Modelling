@@ -29,7 +29,7 @@ mindmap
     Controls Required
       Risks<br/>Mitigations
       Risk Summary
-        Redmeiation workflow
+        Redmediation workflow
             Slack
             JIRA
     Scenarios
